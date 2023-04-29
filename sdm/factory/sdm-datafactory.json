@@ -1,0 +1,9 @@
+{
+	"name": "sdm-datafactory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c4f1cb1a-bf0a-4a10-b1d5-f0392fe8b053",
+		"tenantId": "684f9faf-00c5-4635-8ed6-8e59a39b036c"
+	}
+}
